@@ -1,0 +1,4 @@
+﻿  ColorPainter.cpp
+C:\Study_Docs\Interests\DAE_C++\OpenCV_Project1\ColorPainter.cpp(39,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Study_Docs\Interests\DAE_C++\OpenCV_Project1\ColorPainter.cpp(45,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenCV_Project1.vcxproj -> C:\Study_Docs\Interests\DAE_C++\OpenCV_Project1\x64\Debug\OpenCV_Project1.exe
